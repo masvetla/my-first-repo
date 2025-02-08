@@ -1,2 +1,2 @@
 # my-first-repo
-Ovo je moj prvi GitHub repozitorijum za vežbanje.
+This is my first repository. Wish me luck :)
