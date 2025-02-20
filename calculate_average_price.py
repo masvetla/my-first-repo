@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def calculate_average():
     prices = []
     print("Enter price: (end for stop)")
@@ -20,3 +21,4 @@ def calculate_average():
 
 #call function
 calculate_average()
+
